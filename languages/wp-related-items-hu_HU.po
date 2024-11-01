@@ -1,0 +1,867 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-related-items\n"
+"POT-Creation-Date: 2014-01-04 14:26+0100\n"
+"PO-Revision-Date: 2020-05-10 09:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: WebShopLogic\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: d:\\WSL\\wp-related-items_lite_and_pro\\wp-related-"
+"items\n"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-manual_relations.php:75
+msgid "Set manual relationships"
+msgstr "Hasonlóság megadása manuálisan"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-manual_relations.php:81
+msgid "Chose items from left side list and add it to the right side list."
+msgstr ""
+"Válassza ki az elemeket a bal oldali listából, és adja hozzá a jobb oldali "
+"listához."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-manual_relations.php:82
+msgid ""
+"This function is available only on WRI premium version. Manually adjusted "
+"relationships have no effects on WRI free version. You can try, but dont use "
+"it on free version, because relationships are not saved!"
+msgstr ""
+"Ez a funkció csak a WRI prémium verzióban érhető el. A manuálisan beállított "
+"kapcsolatoknak nem lesz hatása a WRI ingyenes verziójában. Kipróbálhatja, de "
+"ne használja ezt az ingyenes verzióban, mert a kapcsolatok nem kerülnek "
+"elmentésre."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-manual_relations.php:136
+msgid "Manual Relationships"
+msgstr "Manuális hasonlóságok"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-manual_relations.php:137
+msgid "Manual Relationship"
+msgstr "Manuális hasonlóság"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:34
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:7
+msgid "WP Related Items (WRI)"
+msgstr "WP Related Items (WRI)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:63
+msgid "General Settings"
+msgstr "Általános beállítások"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:72
+msgid "Enable WRI Plugin"
+msgstr "WRI plugin engedélyezés"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:80
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:578
+msgid "Enable manual settings of WRI relationships"
+msgstr "Manuális hasonlóság beállítás engedélyezés"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:88
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:595
+msgid "WRI Manual Relationships Weight (pro)"
+msgstr "WRI manuális kapcsolódási súly (pro)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:97
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:612
+msgid "Enable Similarity Marker Categories (pro)"
+msgstr "WRI hasonlóság jelölő kategória engedélyezése (pro)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:106
+msgid "Thumbnail width"
+msgstr "Bélyegkép szélesség"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:114
+msgid "Thumbnail height"
+msgstr "Bélyegkép magasság"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:122
+msgid "Used posttypes"
+msgstr "Használt bejegyzés típusok"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:130
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:648
+msgid "Use Yarpp tilte if WRI title is not set"
+msgstr "YARPP cím használata, ha a WRI cím nincs beállítva"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:140
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:665
+msgid "Hide related products displayed by WooCommerce"
+msgstr "A WooCommerce által megjelenített hasonló termékek kikapcsolása"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:150
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:684
+msgid "Promote WRI"
+msgstr "WRI támogatása"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:178
+msgid "Related Items"
+msgstr "Hasonló bejegyzések"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:194
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:732
+msgid "Custom title"
+msgstr "Egyedi cím"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:202
+msgid "Before title HTML tags"
+msgstr "Cím előtti HTML tag-ek"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:210
+msgid "After title HTML tags"
+msgstr "Cím utáni HTML tag-ek"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:218
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:761
+msgid "Default display if no results"
+msgstr "Alapértelmezett felirat, ha nincs találat"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:226
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:773
+msgid "Number of thumbnail columns (pro)"
+msgstr "Oszlopok száma (pro)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:234
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1135
+msgid "Cross taxonomies"
+msgstr "Kereszt kategóriák"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:268
+msgid "reference Items"
+msgstr "referencia bejegyzések"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:275
+msgid "reference Posttype"
+msgstr "referencia bejegyzés típus"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:283
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:888
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:123
+msgid "Related post type"
+msgstr "Hasonló bejegyzés típusa"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:292
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:889
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1054
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:142
+msgid "Order"
+msgstr "Sorrend"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:300
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:891
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1058
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:137
+msgid "Limit number of displayed related items"
+msgstr "Megjelenítendő hasonló elemek száma"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:308
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:892
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1062
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:139
+msgid "Match threshold"
+msgstr "Hasonlósági küszöb"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:316
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:894
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1066
+msgid "Position"
+msgstr "Elhelyezkedés"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:324
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:895
+msgid "Position in Archives (pro)"
+msgstr "Elhelyezkedés az archív oldalakon (pro)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:332
+msgid "Display Order"
+msgstr "Megjelenítési sorrend"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:340
+msgid "List Thumbnail"
+msgstr "Lista Bélyegkép"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:348
+msgid "Custom template"
+msgstr "Egyedi sablon"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:410
+#, php-format
+msgid "Related %s"
+msgstr "Hasonló %s"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:473
+msgid ""
+"This plugin is based on Yet Another Related Posts Plugin (YARPP) and "
+"complement its functionality. Please install and activate <a href=\"http://"
+"wordpress.org/plugins/yet-another-related-posts-plugin/\" target=\"_blank"
+"\">Yet Another Related Posts Plugin</a> first."
+msgstr ""
+"Ez a plugin a Yet Another Related Post Plugin (YARPP)-re épít, kiegészítve "
+"annak funkcionalitását. Kérjük, telepítse és aktiválja a <a href=\"http://"
+"wordpress.org/plugins/yet-another-related-posts-plugin/\" target=\"_blank"
+"\">Yet Another Related Posts Plugint</a> először."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:480
+msgid "WP Related Items (WRI) Settings - WebshopLogic"
+msgstr "WP Related Items (WRI) beállítások - WebshopLogic"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:493
+msgid "General"
+msgstr "Általános"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:496
+msgid "Related Types"
+msgstr "Hasonló típusok"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:504
+#, php-format
+msgid "%s Page"
+msgstr "%s oldal"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:510
+msgid "Yarpp Settings"
+msgstr "Yarpp beállítások"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:537
+msgid "WP Related Items (WRI) general settings"
+msgstr "WP Related Items (WRI)  általános beállítások"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:538
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1178
+msgid "Enter your settings below"
+msgstr "Végezze el az alábbi beállításokat"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:545
+msgid "Enable WRI plugin"
+msgstr "WRI plugin engedélyezés"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:553
+msgid ""
+"Turns on WRI plugin. Turning on WRI plugin, you may want to turn off the "
+"\"Automatically display\" option of Yarpp plugin. In this case, YARPP is "
+"running in the background."
+msgstr ""
+"WRI plugin engefélyezés. A WRI plugin bekapcsolásakor, szüksége lehet arra, "
+"hogy kikapcsolja az Automatikus megjelenítés (Automatically display) opciót "
+"a YARPP plugin-ben.  Ebben az esetben a WRI végzi a megjelenítést, míg a "
+"YARPP a háttérben dolgozik."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:559
+msgid "Thumbnail width / height"
+msgstr "Bélyegkép szélesség / magasság"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:571
+msgid "Operation of thumbnail size settings are template dependent."
+msgstr "A bélyegkép méret beállítás működése template függő."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:586
+msgid ""
+"This option allows you manual assignment of items (e.g. assign some product "
+"to a post). Assignment can be made on post edit pages, if this checkbox is "
+"on. (pro)"
+msgstr ""
+"Ez az opció teszi lehetővé a manuális hasonlóság összerendelést (például "
+"néhány termék rendelhető egy bejegyzéshez). Az összerendelések a bejegyzések "
+"szerkesztő lapjain végezhetők el, ha ez a jelölőnégyzet be van kapcsolva. "
+"(pro)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:602
+msgid ""
+"Set up weight of manual item associations. Use higher weight to your manual "
+"bindings enforced better. Default: 100."
+msgstr ""
+"Állítsa be a manuális hasonlóság beállítás kiértékelési súlyát. Magasabb "
+"érték megadásával a manuálisan megadott összerendelés nagyobb súlyú lesz. "
+"Alapértelmezett érték: 100"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:620
+msgid ""
+"WRI Similarity Marker Categories are special categories for setting "
+"relationships between different elements, helping to increase the "
+"correlation between them. If you switch it on, the categorization metabox "
+"appears on edit pages of all used post types."
+msgstr ""
+"A WRI hasonlóság jelölő kategóriák speciális kategóriák, kimondottan a "
+"különböző elemek közötti kapcsolatok beállítására. Bekapcsolásakor "
+"megjelenik a kategorizálási metabox az összes használt bejegyzés típus "
+"szerkesztő oldalán."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:626
+msgid "Post types used by WRI"
+msgstr "WRI-ben használt bejegyzés típusok"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:640
+msgid ""
+"You can select the post types you want to be treated. IMPORTANT: if you "
+"change this setting, you may need to save YARPP settings again in Settings -"
+"> Related Posts (YARPP) menu item, to refresh them."
+msgstr ""
+"Válassza ki a kezelendő bejegyzés típusokat. FONTOS: a beállítás "
+"megváltoztatása után szükség van a YARPP beállítások újra elmentésére a  "
+"<i>Beállítások -> Hasonló bejegyzések (YARPP)</i> menüpontban, hogy azok "
+"frissüljenek."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:673
+msgid ""
+"WooCommerce automatically show some related products. Set this option on to "
+"hide it, to avoid duplication of WRI and WooCommerce related items."
+msgstr ""
+"WooCommerce automatikusan megjelenít néhány hasonló bejegyzést. Ennek "
+"kikapcsolásához jelölje be ezt a jelölőnégyzetet, hogy ne jelenjenek meg "
+"duplán a WRI és a WooCommerce hasonló elemek."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:706
+msgid ""
+"Please set at least one post type in <i>Post types used by WRI</i> field of "
+"<i>General</i> tab."
+msgstr ""
+"Kérjük legalább egy bejegyzés típust válasszon a <i>WRI-ben használt "
+"bejegyzés típusok</i> mezőben az <i>Általános</i> fülön."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:718
+#, php-format
+msgid "Related <i>%s</i>"
+msgstr "Hasonló <i>%s</i>"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:721
+#, php-format
+msgid ""
+"The settings below overwrite YARPP default display settings specially for "
+"<b><i> %s items</i></b>."
+msgstr ""
+"Az alábbi beállítások felülírják a YARPP alapértelmezett megjelenítési "
+"beállításait, a <b> %s elemekre</b> vonatkozóan."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:722
+#, php-format
+msgid ""
+"Leave these settings empty if YARPP default settings are appropriate for %s "
+"items."
+msgstr ""
+"Hagyja ezeket a beállításokat üresen, ha a YARPP alapértelmezett beállítások "
+"megfelelőek a %s elemek esetén."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:739
+msgid ""
+"Specify a unique title for this type of related posts. (You can see the post "
+"type in the header of this section.) Leave the field empty if YARPP default "
+"title setting is right for this post type."
+msgstr ""
+"Egyedi cím meghatározás ehhez a bejegyzés típushoz. Hagyja üresen a mezőt, "
+"amennyiben a YARPP-ban beállított érték megfelelő."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:745
+msgid "Before / after title HTML tags"
+msgstr "Cím előtti és utáni HTML tag-ek"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:780
+msgid "Operation of these settings is template dependent."
+msgstr "A beállítás működése template függő."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:800
+#, php-format
+msgid "Show selected cross taxonomy metaboxes on %s admin page (pro)"
+msgstr ""
+"A bejelölt kereszt kategória metaboxok megjelenítése a %s szerkesztő "
+"felületen (pro)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:821
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1146
+msgid ""
+"Cross taxonomies can be used to increase similarities using common "
+"categorization between different post types. For example, you can switch on "
+"WordPress standard post categories for products, so the post category "
+"metabox appears on products admin page. In this way, different post types "
+"can be  in the same category, increasing the similarity rates."
+msgstr ""
+"Kereszt kategóriákkal növelhető az elemek közötti hasonlóság, amely közös "
+"kategorizálási rendszer használatát jelenti a különböző bejegyzés típusok "
+"kötött. Például bekapcsolható, hogy a WordPress normál kategóriái mondjuk a "
+"termékeknél is megjelenjenek, így a bejegyzés kategorizálási metabox "
+"megjelenik a normál bejegyzéseken kívül a termékek adminisztrációs felületén "
+"is. Ezen a módon a különböző bejegyzés típusok azonos kategória rendszerbe "
+"sorolhatók, növelve a hasonlóságot közöttük."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:835
+msgid "Suggested YARPP Settings"
+msgstr "Javasolt YARPP beállítások"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:836
+msgid ""
+"Using WRI plugin, YARPP similarity search service works in the background, "
+"so it is important to apply right YARPP settings."
+msgstr ""
+"A WRI plugin használatával a YARPP hasonlóság keresés a háttérben dolgozik, "
+"így lényeges a YARPP opciók megfelelő beállítása."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:837
+msgid ""
+"Choose <i>Settings -> Related Posts (YARPP)</i> item in WordPress Admin menu "
+"to setup YARPP options."
+msgstr ""
+"Válassza a <i>Beállítások -> Hasonló bejegyzések (YARPP)</i> menüpontot a "
+"WordPress Admin felületen a YARPP beállításokhoz."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:844
+msgid "\"Relatedness\" options"
+msgstr "\"Hasonlósági\" beállítások"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:847
+msgid ""
+"Set all options of similarity evaulation, especially for consideration of "
+"custom post types categories and tags in <i>\"Relatedness\" options</i> "
+"section. Use <i>Screen Options</i> button on the upper right side of YARPP "
+"options page and check <i>\"Relatedness\" options</i> checkbox to display "
+"this section."
+msgstr ""
+"Állítsa be a hasonlóság kiértékelés opciókat, különösen az egyedi bejegyzés "
+"típus kategóriákat és címkéket a <i>\"Hasonlósági opciók\"</i> metabox-ban. "
+"Használja a jobb felső sarokban lévő <i>Képernyő beállításai</i> gombot "
+"YARPP beállítások oldalon, és jelölje be a <i>\"Hasonlósági opciók\"</i> "
+"jelölőnégyzetet, ha ez a metabox nem jelent meg eredetileg."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:853
+msgid "Automatically display"
+msgstr "Automatikus megjelenítés"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:856
+msgid ""
+"Turn off Automatically display checkbox to disable YARPP display of related "
+"posts. In this case WRI displays related items, while YARPP works in the "
+"background."
+msgstr ""
+"Kapcsolja ki az Automatikus megjelenítés (Automatically display) "
+"jelölőnégyzetet, így letiltható, hogy a YARPP megjelenítse a hasonló "
+"elemeket. Ebben az esetben a WRI végzi a megjelenítést, míg a YARPP a "
+"háttérben dolgozik."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:874
+#, php-format
+msgid "<h3>Related items on %s reference pages</h3>"
+msgstr "<h3>Hasonló elemek a %s referencia lapokon</h3>"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:877
+msgid ""
+"On reference item tabs you can set how to display related items for the item "
+"type appointed by the actual tab. For example, if you want to set how to "
+"display related PRODUCTS for POSTS, you can use settings in PRODUCTS row on "
+"POST Reference Items tab. Such a matrix-like way you can specify all "
+"necessary variations of display settings."
+msgstr ""
+"A referencia elemek tab fülein beállítható, hogy hogyan jelenjenek meg a "
+"hasonló elemek az adott fülnek megfelelő elemekhez kapcsolódóan. Például a "
+"normál bejegyzésekhez hasonló termékek megjelenítését akarja beállítani, a "
+"Bejegyzés tab fülön lévő Termékek sorban kell a beállításokat megadni. Ezzel "
+"a mátrix szerű megoldással az eltérő bejegyzés típusok specialitásai "
+"kezelhetők."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:879
+#, php-format
+msgid ""
+"Related items display setting on <b><i>%1s pages</i></b> and <b><i>%2s "
+"archive pages</i></b>"
+msgstr ""
+"Hasonló elemek megjelenítési beállítása a <b><i>%1s lapokon</i></b> és <b><i>"
+"%2s archív oldalakon</i></b>"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:896
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1074
+msgid "Display order of blocks"
+msgstr "Blokkok kijelzési sorrendje"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:897
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1078
+msgid "List/Thumbnail"
+msgstr "Lista/Bélyegkép"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:898
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1082
+msgid "Yarpp custom Template"
+msgstr "Yarpp egyedi sablon"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:938
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:145
+msgid "score (high relevance to low)"
+msgstr "pontszám (magastól az alacsonyig)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:939
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:146
+msgid "score (low relevance to high)"
+msgstr "pontszám (alacsonytól a magasig)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:940
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:147
+msgid "date (new to old)"
+msgstr "dátum (újtól a régiig)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:941
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:148
+msgid "date (old to new)"
+msgstr "dátum (régitől az újig)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:942
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:149
+msgid "title (alphabetical)"
+msgstr "cím (ábc sorrendben)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:943
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:150
+msgid "title (reverse alphabetical)"
+msgstr "cím (fordított ábc sorrendben)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:972
+msgid "Top of page"
+msgstr "Lap tetején"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:973
+msgid "Bottom of page"
+msgstr "Lap alján"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:974
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:986
+msgid "None or just widgets"
+msgstr "Sehol (vagy csak widgeteken)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:984
+msgid "Top of items"
+msgstr "Elemek előtt"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:985
+msgid "Bottom of items"
+msgstr "Elemek után"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1005
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:162
+msgid "List"
+msgstr "Lista"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1006
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:163
+msgid "Thumbnail"
+msgstr "Bélyegkép"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1007
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:164
+msgid "According to YARPP display options"
+msgstr "YARPP kijelzési beállítások szerint"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1051
+msgid "Field Descriptions"
+msgstr "Megnevezés"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1055
+msgid ""
+"Specify the order of displayed items for this type of related posts. Leave "
+"the field empty if YARPP default order setting is right for this post type."
+msgstr ""
+"Egyedi sorrend meghatározás ehhez a bejegyzés típushoz. Hagyja üresen a "
+"mezőt, amennyiben a YARPP-ban beállított érték megfelelő."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1059
+msgid ""
+"Specify a unique limit of displayed items for this type of related posts. "
+"Leave the field empty if YARPP default limit setting is right for this post "
+"type."
+msgstr ""
+"Egyedi megjelenítési limit meghatározás ehhez a bejegyzés típushoz. Hagyja "
+"üresen a mezőt, amennyiben a YARPP-ban beállított érték megfelelő."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1063
+msgid ""
+"Specify a unique threshold for this type of related posts. Leave the field "
+"empty if YARPP default threshold setting is right for this post type. The "
+"lover limit may cause a higher hit number."
+msgstr ""
+"Egyedi hasonlósági küszöbérték meghatározás ehhez a bejegyzés típushoz. "
+"Hagyja üresen a mezőt, amennyiben a YARPP-ban beállított érték megfelelő."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1067
+msgid "Position of items on single item pages."
+msgstr "Hasonló elemek elhelyezkedése a normál oldalakon."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1070
+msgid "Position in Archives"
+msgstr "Elhelyezkedés az archív oldalakon (pro)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1071
+msgid "Position of items on archive item pages."
+msgstr "Hasonló elemek elhelyezkedése az archív oldalakon."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1075
+msgid ""
+"You can set the order of blocks displayed on the same position. For example "
+"if you set related posts and products on the bottom of page, you can set the "
+"order of these two blocks."
+msgstr ""
+"Beállítható a hasonlósági blokkok sorrendje, amelyek ugyanabban a pozícióban "
+"jelennek meg. Például ha beállítja a hasonló bejegyzések és termékek "
+"kijelzését a lap aljára, beállítható, hogy ez a két blokk milyen sorrendben "
+"jelenjen meg."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1079
+msgid "You can set list or thumbnail mode, or to use settings in Yarpp plugin."
+msgstr ""
+"Kiválasztható a Lista vagy bélyegkép mód, vagy a YARPP plugin beállításainak "
+"használata."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1083
+msgid ""
+"Your own template files can be used. Your templates should be in main "
+"directory of your active theme, the file name must conform to following "
+"naming convention: yarpp-template-....php. Please find more details about "
+"templates in Yarpp documentations.)"
+msgstr ""
+"Saját template állományok használhatók. A template fájlnak az aktív téma fő "
+"könyvtárában kell lennie, az állomány névnek pedig meg kell felelnie a "
+"következő névkonvenciónak: yarpp-template-....php. További információk a "
+"template kezeléssel kapcsolatban a YARPP dokumentációban találhatók.)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1126
+msgid "Upgrade to PRO version"
+msgstr "Upgrade a PRO verzióra"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1136
+msgid "Common categories for relationships"
+msgstr "Közös hasonlósági kategóriák"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1137
+msgid "Manual relationship assignments"
+msgstr "Manuális  elem összerendelés"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1138
+msgid "More positioning options"
+msgstr "Új lehetőségek az elemek elhelyezésére"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1139
+msgid "Display related items on archive pages"
+msgstr "Hasonló elemek megjelenítése az archív oldalakon"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1140
+msgid "Configurable number of thumbnail columns"
+msgstr "Beállítható oszlopszám a bélyegképes megjelenítésnél"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1141
+msgid "Use different related item widget on different reference item types"
+msgstr ""
+"Különböző hasonló elem widget használhatósága a különböző referencia elem "
+"típushoz."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1142
+msgid "Use related item widget on archive pages"
+msgstr "Hasonló elemek widget használata az archív oldalakon"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1148
+msgid ""
+"Manual assignment of items is possible. This way you can define explicit "
+"relationship between different items (e.g. assign some product to a post or "
+"two related posts to each other)"
+msgstr ""
+"Manuális elem összerendelési lehetőség. Ezen a módon közvetlenül lehet "
+"hasonlóságot beállítani különböző elemek között (például hozzárendelhető "
+"néhány termék egy bejegyzéshez, vagy két hasonló bejegyzés egymáshoz). "
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:133
+msgid "Hide title"
+msgstr "Cím elrejtés"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:135
+msgid "Title"
+msgstr "Cím"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:155
+msgid " Display in Singles "
+msgstr "Megjelenik normál oldalakon"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:157
+msgid " Display in Archives (pro)"
+msgstr "Megjelenik archív oldalakon"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:160
+msgid "List or Thumbnail mode"
+msgstr "Lista vagy Bélyegkép mód"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:171
+msgid "Thumbnail size (width/height)"
+msgstr "Bélyegkép méret (szélesség/magasság)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:178
+msgid "Maximum number of characters for excerpt displayed"
+msgstr "Szemelvényből megjelenítendő karakterek maximális száma"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:180
+msgid ""
+"Hide widget if related items for this reference post type displayed directly "
+"on the post page, preventing duplicated display"
+msgstr ""
+"Widget elrejtése, ha ehhez a forrás bejegyzés típushoz kapcsolódó elemek "
+"megjelennek közvetlenül a bejegyzés lapon, így elkerülve a duplikált "
+"megjelenítést."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:183
+msgid "Display related items only on following post type pages (pro)"
+msgstr ""
+"Hasonló elemek kijelzése kizárólag a következő bejegyzés típusú oldalakon "
+"(pro)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:201
+msgid "Custom template: (according to Yarpp template mechanism)"
+msgstr "Egyedi sablon: (a YARPP template mechanizmus szerint)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:144
+msgid "Could not create directory."
+msgstr "A könyvtár nem hozható létre."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:148
+msgid "Error copying file!"
+msgstr "Hiba az állomány másolásban!"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:209
+msgid "Related items is presented by WP Related Items Plugin."
+msgstr "A hasonló elemek megjelenítését a WP Related Items plugin végezte."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:559
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:569
+msgid "WRI Similarity Marker Categories"
+msgstr "WRI hasonlóság jelölő kategóriák"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:560
+msgid "WRI Similarity Marker Category"
+msgstr "WRI Similarity Marker Categories"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:561
+msgid "Search WRI Categories"
+msgstr "WRI kategória keresés"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:562
+msgid "All WRI Categories"
+msgstr "Összes WRI kategória"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:563
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:564
+msgid "Parent WRI Category"
+msgstr "Felettes WRI kategória"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:565
+msgid "Edit WRI Category"
+msgstr "WRI kategória szerkesztés"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:566
+msgid "Update WRI Category"
+msgstr "WRI kategória módosítás"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:567
+msgid "Add New WRI Category"
+msgstr "Új WRI kategória"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:568
+msgid "New WRI Category Name"
+msgstr "Új WRI kategória név"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri_template/template-wri-woocommerce-loop-shop.php:34
+msgid "No products found which match your selection."
+msgstr "Nem található a feltételeknek megfelelő termék."
+
+#~ msgid "Enable WRI Categories (pro)"
+#~ msgstr "WRI kategória engedélyezése (pro)"
+
+#~ msgid "WRI Category"
+#~ msgstr "WRI kategória"
+
+#~ msgid "WRI Categories for related items"
+#~ msgstr "WRI hasonlóság jelölő kategóriák"
+
+#~ msgid "WRI Category for related items"
+#~ msgstr "Hasonlóság WRI kategóriák"
+
+#~ msgid "Related"
+#~ msgstr "Hasonló"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid ""
+#~ "On reference item tabs you can set how to display related items for the "
+#~ "item type appointed by the actual tab. "
+#~ msgstr "Hello1"
+
+#~ msgid "aaa1"
+#~ msgstr "Hello1"
+
+#~ msgid "bbb1"
+#~ msgstr "Hello2"
+
+#~ msgid "Enable Plugin"
+#~ msgstr "WRI plugin engedélyezés"
+
+#~ msgid "WRI Manual Relationships Weight"
+#~ msgstr "WRI manuális kapcsolósái súly (pro)"
+
+#~ msgid "Enable settings of WRI Categories"
+#~ msgstr "WRI kategória engedélyezése (pro)"
+
+#~ msgid "Number of thumbnail columns"
+#~ msgstr "Oszlopok száma (pro)"
+
+#~ msgid "Cross Taxonomies"
+#~ msgstr "Kereszt kategória"
+
+#~ msgid "Related Posttype"
+#~ msgstr "Hasonló bejegyzés típusa"
+
+#~ msgid ""
+#~ "Cross taxonomies can be used to increase similarities using common "
+#~ "categorization between different post types. For example, you can switch "
+#~ "on standard post categories for products, so the post category assignment "
+#~ "option appears not only on post edit page but on products admin page "
+#~ "also. In this way, different post types can be in the same category, "
+#~ "increasing the similarity rates."
+#~ msgstr ""
+#~ "Kereszt kategóriákkal növelhető az elemek közötti hasonlóság, amely közös "
+#~ "kategorizálási rendszer használatát jelenti a külömböző bejegyzés típusok "
+#~ "kötött. Például bekapcsolható, hogy a WordPress normál kategóriái mondjuk "
+#~ "a termékeknél is meghjelenjenek, így a bejegyzés kategórizálási metabox "
+#~ "megjelenik a normál bejegyzéseken kívül a termékek adminisztrációs "
+#~ "felületén is. Ezen a módon a különböző bejegyzés típusok azonos kategória "
+#~ "rendszerbe sorolhatók, növelve a hasonlóságot közöttük."
+
+#, fuzzy
+#~ msgid "WebshopLogic Related Items Settings"
+#~ msgstr "WebShopLogic Kapcsolódó bejegyzések beállításai"
+
+#, fuzzy
+#~ msgid "%s Reference Items"
+#~ msgstr "Forrás bejegyzések"
+
+#~ msgid "WebShopLogic Related Posts"
+#~ msgstr "WebShopLogic bejegyzés kapcsokatok"
+
+#~ msgid "Maximum number of characters for title displayed"
+#~ msgstr "Címből megjelenítendő karakterek maximális száma"
+
+#~ msgid "Choose list style"
+#~ msgstr "Válasszon lista stílust"
+
+#~ msgid "Choose thumbnail style"
+#~ msgstr "Válasszon bélyegkép stílust"
+
+#~ msgid ""
+#~ "On %1s pages and %2s archive page display the following type of related "
+#~ "items"
+#~ msgstr ""
+#~ "A %1s lapokon és %2s archiv oldalakon a következő típusú kapcsolódó "
+#~ "elemek kijelzése"
+
+#~ msgid "Show Title"
+#~ msgstr "Cím kijelzése"
+
+#~ msgid "Show Excerpt"
+#~ msgstr "Szemelvény megjelenítése"
+
+#~ msgid "Thumbnail (YARPP template)"
+#~ msgstr "Bélyegkép (YARPP sablon)"

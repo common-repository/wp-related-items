@@ -1,0 +1,875 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-related-items\n"
+"POT-Creation-Date: 2014-01-04 14:26+0100\n"
+"PO-Revision-Date: 2020-05-10 09:38+0100\n"
+"Last-Translator: Andrew Kurtis\n"
+"Language-Team: WebHostingHub\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: d:\\WSL\\wp-related-items_lite_and_pro\\wp-related-"
+"items\n"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-manual_relations.php:75
+msgid "Set manual relationships"
+msgstr "Establecer Relaciones manuales"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-manual_relations.php:81
+msgid "Chose items from left side list and add it to the right side list."
+msgstr ""
+"Elija artículos de la lista del lado izquierdo y agréguelos a la lista de la "
+"derecha."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-manual_relations.php:82
+msgid ""
+"This function is available only on WRI premium version. Manually adjusted "
+"relationships have no effects on WRI free version. You can try, but dont use "
+"it on free version, because relationships are not saved!"
+msgstr ""
+"Esta función sólo está disponible en versión premium de WRI. Relaciones "
+"ajustadas manualmente no tienen efectos sobre la versión gratuita de WRI. "
+"Puedes intentarlo, pero no lo utilices en la versión libre, ¡porque las "
+"relaciones no se guardan!"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-manual_relations.php:136
+msgid "Manual Relationships"
+msgstr "Relaciones Manuales"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-manual_relations.php:137
+msgid "Manual Relationship"
+msgstr "Relación Manual"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:34
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:7
+msgid "WP Related Items (WRI)"
+msgstr "Artículos WP relacionados (WRI)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:63
+msgid "General Settings"
+msgstr "Configuración general"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:72
+msgid "Enable WRI Plugin"
+msgstr "Habilitar Plugin WRI"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:80
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:578
+msgid "Enable manual settings of WRI relationships"
+msgstr "Habilitar configuración manual de las relaciones de WRI"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:88
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:595
+msgid "WRI Manual Relationships Weight (pro)"
+msgstr "Peso de Relaciones Manuales (pro)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:97
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:612
+msgid "Enable Similarity Marker Categories (pro)"
+msgstr "Habilitar Categorías de Similarity Marker (pro)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:106
+msgid "Thumbnail width"
+msgstr "Ancho de Miniatura"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:114
+msgid "Thumbnail height"
+msgstr "Altura de Miniatura"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:122
+msgid "Used posttypes"
+msgstr "Posttypes usados"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:130
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:648
+msgid "Use Yarpp tilte if WRI title is not set"
+msgstr "Use título YARPP si el título de WRI no se establece"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:140
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:665
+msgid "Hide related products displayed by WooCommerce"
+msgstr "Ocultar productos relacionados mostrados  por WooCommerce"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:150
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:684
+msgid "Promote WRI"
+msgstr "Promover WRI"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:178
+msgid "Related Items"
+msgstr "Elementos relacionados"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:194
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:732
+msgid "Custom title"
+msgstr "Título personalizado"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:202
+msgid "Before title HTML tags"
+msgstr "Antes de etiquetas de título HTML"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:210
+msgid "After title HTML tags"
+msgstr "Después de etiquetas de título HTML"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:218
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:761
+msgid "Default display if no results"
+msgstr "Pantalla por defecto si no hay resultados"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:226
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:773
+msgid "Number of thumbnail columns (pro)"
+msgstr "Número de columnas de miniaturas (pro)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:234
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1135
+msgid "Cross taxonomies"
+msgstr "Taxonomías cruzadas"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:268
+msgid "reference Items"
+msgstr "Artículos de referencia"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:275
+msgid "reference Posttype"
+msgstr "Posttype de Referencia"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:283
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:888
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:123
+msgid "Related post type"
+msgstr "Tipo de publicaciones Relacionadas"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:292
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:889
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1054
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:142
+msgid "Order"
+msgstr "Ordenar"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:300
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:891
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1058
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:137
+msgid "Limit number of displayed related items"
+msgstr "Limitar el número de elementos relacionados que se muestran"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:308
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:892
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1062
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:139
+msgid "Match threshold"
+msgstr "Umbral de coincidencia"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:316
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:894
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1066
+msgid "Position"
+msgstr "Posición"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:324
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:895
+msgid "Position in Archives (pro)"
+msgstr "Posición en Archivos (pro)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:332
+msgid "Display Order"
+msgstr "Ver Pedidos"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:340
+msgid "List Thumbnail"
+msgstr "Miniatura de Lista"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:348
+msgid "Custom template"
+msgstr "Plantilla personalizada"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:410
+#, php-format
+msgid "Related %s"
+msgstr "%s relacionados"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:473
+msgid ""
+"This plugin is based on Yet Another Related Posts Plugin (YARPP) and "
+"complement its functionality. Please install and activate <a href=\"http://"
+"wordpress.org/plugins/yet-another-related-posts-plugin/\" target=\"_blank"
+"\">Yet Another Related Posts Plugin</a> first."
+msgstr ""
+"Este plugin está basado en el PLugin Yet Another Related Posts (YARPP) y "
+"complementa su funcionalidad. Por favor, instale y active <a href=\"http://"
+"wordpress.org/plugins/yet-another-related-posts-plugin/\" target=\"_blank"
+"\">Yet Another Related Posts Plugin</a> primero."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:480
+msgid "WP Related Items (WRI) Settings - WebshopLogic"
+msgstr "Configuración Temas WP relacionados (WRI) –WebshopLogic"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:493
+msgid "General"
+msgstr "General"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:496
+msgid "Related Types"
+msgstr "Tipos relacionados"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:504
+#, php-format
+msgid "%s Page"
+msgstr "Página %s"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:510
+msgid "Yarpp Settings"
+msgstr "Configuración YARPP"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:537
+msgid "WP Related Items (WRI) general settings"
+msgstr "Configuración general Artículos WP relacionados (WRI)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:538
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1178
+msgid "Enter your settings below"
+msgstr "Introducir los ajustes abajo"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:545
+msgid "Enable WRI plugin"
+msgstr "Habilitar Plugin WRI"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:553
+msgid ""
+"Turns on WRI plugin. Turning on WRI plugin, you may want to turn off the "
+"\"Automatically display\" option of Yarpp plugin. In this case, YARPP is "
+"running in the background."
+msgstr ""
+"Activa WRI plugin. Al encender el plugin WRI, es posible que desee "
+"desactivar la opción \"Automáticamente mostrar\" del plugin YARPP. En este "
+"caso, YARPP se está ejecutando en segundo plano."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:559
+msgid "Thumbnail width / height"
+msgstr "Ancho / altura de Miniatura"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:571
+msgid "Operation of thumbnail size settings are template dependent."
+msgstr ""
+"Operación de configuración de tamaño de miniatura es dependiente de la "
+"plantilla."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:586
+msgid ""
+"This option allows you manual assignment of items (e.g. assign some product "
+"to a post). Assignment can be made on post edit pages, if this checkbox is "
+"on. (pro)"
+msgstr ""
+"Esta opción le permite la asignación manual de los objetos (por ejemplo, "
+"asignar algún producto a una publicación). La asignación puede hacerse en "
+"las páginas posteriores de edición, si esta opción está activada. (Pro)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:602
+msgid ""
+"Set up weight of manual item associations. Use higher weight to your manual "
+"bindings enforced better. Default: 100."
+msgstr ""
+"Establecer el peso de las asociaciones de elementos manuales. Use un mayor "
+"peso a sus consolidaciones manuales forzadas mejor. Por defecto: 100"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:620
+msgid ""
+"WRI Similarity Marker Categories are special categories for setting "
+"relationships between different elements, helping to increase the "
+"correlation between them. If you switch it on, the categorization metabox "
+"appears on edit pages of all used post types."
+msgstr ""
+"Las categorías de WRI Similarity Marker son categorías especiales para el "
+"establecimiento de relaciones entre los diferentes elementos, ayudando a "
+"aumentar la correlación entre ellos. Si lo enciende, el metabox de "
+"categorización aparece en las páginas de edición de todos los tipos de "
+"correos utilizados."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:626
+msgid "Post types used by WRI"
+msgstr "Publicar tipos utilizados por WRI"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:640
+msgid ""
+"You can select the post types you want to be treated. IMPORTANT: if you "
+"change this setting, you may need to save YARPP settings again in Settings -"
+"> Related Posts (YARPP) menu item, to refresh them."
+msgstr ""
+"Puede seleccionar los tipos de publicación que desea tratar. IMPORTANTE: Si "
+"cambia esta configuración, puede que tenga que guardar la configuración "
+"YARPP de nuevo en Configuración -> menú Mensajes Relacionados (YARPP), para "
+"refrescarlos"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:673
+msgid ""
+"WooCommerce automatically show some related products. Set this option on to "
+"hide it, to avoid duplication of WRI and WooCommerce related items."
+msgstr ""
+"WooCommerce mostrará de forma automática algunos productos relacionados. "
+"Establezca esta opción en ocultarlo, para evitar la duplicación de artículos "
+"relacionados WRI y WooCommerce."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:706
+msgid ""
+"Please set at least one post type in <i>Post types used by WRI</i> field of "
+"<i>General</i> tab."
+msgstr ""
+"Establezca al menos un tipo de post en <i> Tipos de correos utilizados por "
+"la etiqueta WRI </i> campo de <i> general </i> ficha."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:718
+#, php-format
+msgid "Related <i>%s</i>"
+msgstr "Relacionado <i>%s</ i>"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:721
+#, php-format
+msgid ""
+"The settings below overwrite YARPP default display settings specially for "
+"<b><i> %s items</i></b>."
+msgstr ""
+"Los ajustes siguientes sobrescriben los ajustes de la pantalla por defecto "
+"YARPP especialmente de <b> <i>artículos %s</i></b>."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:722
+#, php-format
+msgid ""
+"Leave these settings empty if YARPP default settings are appropriate for %s "
+"items."
+msgstr ""
+"Deje esta configuración vacía si la configuración predeterminada YARPP es "
+"apropiada para artículos %s."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:739
+msgid ""
+"Specify a unique title for this type of related posts. (You can see the post "
+"type in the header of this section.) Leave the field empty if YARPP default "
+"title setting is right for this post type."
+msgstr ""
+"Especifique un título único para este tipo de mensajes relacionados. (Usted "
+"puede ver el tipo de mensaje en la cabecera de esta sección.) Deje el campo "
+"vacío si el ajuste del título YARPP predeterminado es el adecuado para este "
+"tipo de correos."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:745
+msgid "Before / after title HTML tags"
+msgstr "Antes / después de las etiquetas de título HTML"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:780
+msgid "Operation of these settings is template dependent."
+msgstr "El funcionamiento de estos ajustes es dependiente de la plantilla."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:800
+#, php-format
+msgid "Show selected cross taxonomy metaboxes on %s admin page (pro)"
+msgstr ""
+"Mostrar Metaboxes de taxonomía transversales seleccionadas en la página de "
+"administrador %s (pro)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:821
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1146
+msgid ""
+"Cross taxonomies can be used to increase similarities using common "
+"categorization between different post types. For example, you can switch on "
+"WordPress standard post categories for products, so the post category "
+"metabox appears on products admin page. In this way, different post types "
+"can be  in the same category, increasing the similarity rates."
+msgstr ""
+"Las taxonomías cruzadas se pueden utilizar para aumentar similitudes usando "
+"clasificación común entre los diferentes tipos de publicaciones. Por "
+"ejemplo, puede cambiar en WordPress categorías de publicaciones estándar, "
+"para productos, para que la metabox de categoría de la publicación aparezca "
+"en la página de administración de productos. De esta manera, diferentes "
+"tipos de publicaciones pueden estar en la misma categoría, incrementando las "
+"tasas de similitud."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:835
+msgid "Suggested YARPP Settings"
+msgstr "Configuración YARPP  sugerida"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:836
+msgid ""
+"Using WRI plugin, YARPP similarity search service works in the background, "
+"so it is important to apply right YARPP settings."
+msgstr ""
+"Usar el plugin WRI, el servicio de búsqueda de similitud YARPP funciona en "
+"segundo plano, por lo que es importante aplicar ajustes YARPP correctos."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:837
+msgid ""
+"Choose <i>Settings -> Related Posts (YARPP)</i> item in WordPress Admin menu "
+"to setup YARPP options."
+msgstr ""
+"Elija <i> Configuración -.> Mensajes relacionados (YARPP) </i> en el Menú "
+"WordPress Admin para establecer opciones YARPP"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:844
+msgid "\"Relatedness\" options"
+msgstr "\"Relatedness\" options "
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:847
+msgid ""
+"Set all options of similarity evaulation, especially for consideration of "
+"custom post types categories and tags in <i>\"Relatedness\" options</i> "
+"section. Use <i>Screen Options</i> button on the upper right side of YARPP "
+"options page and check <i>\"Relatedness\" options</i> checkbox to display "
+"this section."
+msgstr ""
+"Set all options of similarity evaulation, especially for consideration of "
+"custom post types categories and tags in <i>\"Relatedness\" options</i> "
+"section. Use <i>Screen Options</i> button on the upper right side of YARPP "
+"options page and check <i>\"Relatedness\" options</i> checkbox to display "
+"this section."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:853
+msgid "Automatically display"
+msgstr "Mostrar automáticamente"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:856
+msgid ""
+"Turn off Automatically display checkbox to disable YARPP display of related "
+"posts. In this case WRI displays related items, while YARPP works in the "
+"background."
+msgstr ""
+"Apague Automáticamente mostrar casilla de verificación para desactivar "
+"pantalla YARPP de publicaciones relacionadas. En este caso WRI muestra "
+"artículos relacionados, mientras YARPP funciona en segundo plano."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:874
+#, php-format
+msgid "<h3>Related items on %s reference pages</h3>"
+msgstr "<h3> Artículos relacionados en %s páginas de referencia</h3>"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:877
+msgid ""
+"On reference item tabs you can set how to display related items for the item "
+"type appointed by the actual tab. For example, if you want to set how to "
+"display related PRODUCTS for POSTS, you can use settings in PRODUCTS row on "
+"POST Reference Items tab. Such a matrix-like way you can specify all "
+"necessary variations of display settings."
+msgstr ""
+"En las pestañas de elementos de referencia puede configurar cómo se muestran "
+"los elementos relacionados para el tipo de elemento designado por la pestaña "
+"actual. Por ejemplo, si desea establecer cómo mostrar PRODUCTOS relacionados "
+"para PUBLICACIONES, puede utilizar la configuración de la fila PRODUCTOS en "
+"la pestaña Elementos de Referencia de Publicaciones. Esa forma de matriz "
+"puede especificar todas las variaciones necesarias de configuración de la "
+"pantalla."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:879
+#, php-format
+msgid ""
+"Related items display setting on <b><i>%1s pages</i></b> and <b><i>%2s "
+"archive pages</i></b>"
+msgstr ""
+"Configuración de pantalla para elementos relacionados en <b><i>%1s pages</"
+"i></b> and <b><i>%2s archive pages</i></b>"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:896
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1074
+msgid "Display order of blocks"
+msgstr "Mostrar orden de los bloques"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:897
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1078
+msgid "List/Thumbnail"
+msgstr "Lista / Miniatura"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:898
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1082
+msgid "Yarpp custom Template"
+msgstr "Plantilla personalizadaYARPP"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:938
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:145
+msgid "score (high relevance to low)"
+msgstr "Puntuación (de relevancia mayor a menor)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:939
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:146
+msgid "score (low relevance to high)"
+msgstr "Puntuación (de relevancia menor a mayor)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:940
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:147
+msgid "date (new to old)"
+msgstr "Fecha (nueva a antigua)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:941
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:148
+msgid "date (old to new)"
+msgstr "Fecha (antigua a nueva)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:942
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:149
+msgid "title (alphabetical)"
+msgstr "Título (alfabético)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:943
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:150
+msgid "title (reverse alphabetical)"
+msgstr "Título (alfabético inverso)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:972
+msgid "Top of page"
+msgstr "Inicio de la página"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:973
+msgid "Bottom of page"
+msgstr "Parte inferior de la página"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:974
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:986
+msgid "None or just widgets"
+msgstr "Ninguno o simplemente Widgets"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:984
+msgid "Top of items"
+msgstr "Parte superior de los elementos"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:985
+msgid "Bottom of items"
+msgstr "Parte inferior de los elementos"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1005
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:162
+msgid "List"
+msgstr "Lista"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1006
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:163
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1007
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:164
+msgid "According to YARPP display options"
+msgstr "Según las opciones de visualización YARPP"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1051
+msgid "Field Descriptions"
+msgstr "Descripciones de Campos"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1055
+msgid ""
+"Specify the order of displayed items for this type of related posts. Leave "
+"the field empty if YARPP default order setting is right for this post type."
+msgstr ""
+"Especifique el orden de los elementos mostrados para este tipo de "
+"publicaciones relacionadas. Deje el campo vacío si la configuración del "
+"orden YARPP por defecto es el adecuado para este tipo de correos."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1059
+msgid ""
+"Specify a unique limit of displayed items for this type of related posts. "
+"Leave the field empty if YARPP default limit setting is right for this post "
+"type."
+msgstr ""
+"Especifique un límite único de elementos que se muestran en este tipo de "
+"publicaciones relacionadas. Deje el campo vacío si el ajuste de límite YARPP "
+"predeterminado es el adecuado para este tipo de correos."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1063
+msgid ""
+"Specify a unique threshold for this type of related posts. Leave the field "
+"empty if YARPP default threshold setting is right for this post type. The "
+"lover limit may cause a higher hit number."
+msgstr ""
+"Especifique un umbral único para este tipo de publicaciones relacionadas. "
+"Deje el campo vacío si el ajuste de umbral YARPP predeterminado es el "
+"adecuado para este tipo de correos. El límite inferior puede causar una "
+"serie de visitas más alta"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1067
+msgid "Position of items on single item pages."
+msgstr "Posición de elementos en las páginas individuales de elementos."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1070
+msgid "Position in Archives"
+msgstr "Posición en Archivos"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1071
+msgid "Position of items on archive item pages."
+msgstr "Posición de los elementos en las páginas de elementos de archivo."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1075
+msgid ""
+"You can set the order of blocks displayed on the same position. For example "
+"if you set related posts and products on the bottom of page, you can set the "
+"order of these two blocks."
+msgstr ""
+"Puede establecer el orden de los bloques que aparecen en la misma posición. "
+"Por ejemplo si se establece publicaciones relacionadas y productos en la "
+"parte inferior de la página, puede establecer el orden de estos dos bloques."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1079
+msgid "You can set list or thumbnail mode, or to use settings in Yarpp plugin."
+msgstr ""
+"Puede configurarmodo de lista o de miniaturas, o para utilizar la "
+"configuración en el plugin YARPP."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1083
+msgid ""
+"Your own template files can be used. Your templates should be in main "
+"directory of your active theme, the file name must conform to following "
+"naming convention: yarpp-template-....php. Please find more details about "
+"templates in Yarpp documentations.)"
+msgstr ""
+"Sus propios archivos de plantilla se pueden utilizar. Las plantillas deben "
+"estar en el directorio principal de su tema activo, el nombre del archivo "
+"debe ajustarse a la siguiente convención de nomenclatura: YARPP-"
+"template-.... php. Encuentre más información acerca de las plantillas en la "
+"documentación YARPP.)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1126
+msgid "Upgrade to PRO version"
+msgstr "Actualizar a la versión PRO"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1136
+msgid "Common categories for relationships"
+msgstr "Categorías comunes para las relaciones"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1137
+msgid "Manual relationship assignments"
+msgstr "Asignaciones de relaciones manual"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1138
+msgid "More positioning options"
+msgstr "Más opciones de posición"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1139
+msgid "Display related items on archive pages"
+msgstr "Mostrar artículos relacionados en páginas de archivo"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1140
+msgid "Configurable number of thumbnail columns"
+msgstr "Número configurable de columnas de miniaturas"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1141
+msgid "Use different related item widget on different reference item types"
+msgstr ""
+"Use diferentes widget de elementos relacionados en diferentes tipos de "
+"elementos de referencia"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1142
+msgid "Use related item widget on archive pages"
+msgstr "Utilice widget de elementos relacionados en las páginas de archivo"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-admin-page.php:1148
+msgid ""
+"Manual assignment of items is possible. This way you can define explicit "
+"relationship between different items (e.g. assign some product to a post or "
+"two related posts to each other)"
+msgstr ""
+"Es posible la asignación manual de elementos. De esta manera se puede "
+"definir una relación explícita entre los diferentes elementos (por ejemplo, "
+"asignar algún producto a una publicación o dos publicaciones relacionadas "
+"entre sí)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:133
+msgid "Hide title"
+msgstr "Ocultar título"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:135
+msgid "Title"
+msgstr "Título"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:155
+msgid " Display in Singles "
+msgstr "Visualización en Singles"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:157
+msgid " Display in Archives (pro)"
+msgstr "Visualizar en Archivos(pro)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:160
+msgid "List or Thumbnail mode"
+msgstr "Modo de Lista o Miniaturas"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:171
+msgid "Thumbnail size (width/height)"
+msgstr "Tamaño de miniatura (ancho/alto)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:178
+msgid "Maximum number of characters for excerpt displayed"
+msgstr "Máximo número de caracteres por extracto mostrado"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:180
+msgid ""
+"Hide widget if related items for this reference post type displayed directly "
+"on the post page, preventing duplicated display"
+msgstr ""
+"Ocultar widget si los artículos relacionados para este tipo de publicación "
+"de referencia que aparece directamente en la página de entrada, evitando "
+"duplicar la pantalla"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:183
+msgid "Display related items only on following post type pages (pro)"
+msgstr ""
+"Mostrar elementos relacionados sólo en las siguientes páginas de tipo de "
+"publicación (pro)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri-widget.php:201
+msgid "Custom template: (according to Yarpp template mechanism)"
+msgstr "Plantilla personalizada: (según el mecanismo de plantillas YARPP)"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:144
+msgid "Could not create directory."
+msgstr "No se pudo crear directorio."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:148
+msgid "Error copying file!"
+msgstr "¡Error copiando archivo!"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:209
+msgid "Related items is presented by WP Related Items Plugin."
+msgstr ""
+"Artículos relacionados es presentado por el Plugin Artículos relacionados WP."
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:559
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:569
+msgid "WRI Similarity Marker Categories"
+msgstr "Categorías WRI Similarity Marker"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:560
+msgid "WRI Similarity Marker Category"
+msgstr "Categoría WRI Similarity Marker"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:561
+msgid "Search WRI Categories"
+msgstr "Buscar Categorías WRI"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:562
+msgid "All WRI Categories"
+msgstr "Todas las Categorías WRI"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:563
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:564
+msgid "Parent WRI Category"
+msgstr "Categoría Padre WRI"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:565
+msgid "Edit WRI Category"
+msgstr "Editar Categoría WRI"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:566
+msgid "Update WRI Category"
+msgstr "Actualizar Categoría WRI"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:567
+msgid "Add New WRI Category"
+msgstr "Añadir Categoría Nueva WRI"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri.php:568
+msgid "New WRI Category Name"
+msgstr "Nuevo Nombre Categoría WRI"
+
+#: d:\WSL\wp-related-items_lite_and_pro\wp-related-items/wri_template/template-wri-woocommerce-loop-shop.php:34
+msgid "No products found which match your selection."
+msgstr "No hay productos encontrados que coincidan con tu selección."
+
+#~ msgid "Enable WRI Categories (pro)"
+#~ msgstr "WRI kategória engedélyezése (pro)"
+
+#~ msgid "WRI Category"
+#~ msgstr "WRI kategória"
+
+#~ msgid "WRI Categories for related items"
+#~ msgstr "WRI hasonlóság jelölő kategóriák"
+
+#~ msgid "WRI Category for related items"
+#~ msgstr "Hasonlóság WRI kategóriák"
+
+#~ msgid "Related"
+#~ msgstr "Hasonló"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid ""
+#~ "On reference item tabs you can set how to display related items for the "
+#~ "item type appointed by the actual tab. "
+#~ msgstr "Hello1"
+
+#~ msgid "aaa1"
+#~ msgstr "Hello1"
+
+#~ msgid "bbb1"
+#~ msgstr "Hello2"
+
+#~ msgid "Enable Plugin"
+#~ msgstr "WRI plugin engedélyezés"
+
+#~ msgid "WRI Manual Relationships Weight"
+#~ msgstr "WRI manuális kapcsolósái súly (pro)"
+
+#~ msgid "Enable settings of WRI Categories"
+#~ msgstr "WRI kategória engedélyezése (pro)"
+
+#~ msgid "Number of thumbnail columns"
+#~ msgstr "Oszlopok száma (pro)"
+
+#~ msgid "Cross Taxonomies"
+#~ msgstr "Kereszt kategória"
+
+#~ msgid "Related Posttype"
+#~ msgstr "Hasonló bejegyzés típusa"
+
+#~ msgid ""
+#~ "Cross taxonomies can be used to increase similarities using common "
+#~ "categorization between different post types. For example, you can switch "
+#~ "on standard post categories for products, so the post category assignment "
+#~ "option appears not only on post edit page but on products admin page "
+#~ "also. In this way, different post types can be in the same category, "
+#~ "increasing the similarity rates."
+#~ msgstr ""
+#~ "Kereszt kategóriákkal növelhető az elemek közötti hasonlóság, amely közös "
+#~ "kategorizálási rendszer használatát jelenti a külömböző bejegyzés típusok "
+#~ "kötött. Például bekapcsolható, hogy a WordPress normál kategóriái mondjuk "
+#~ "a termékeknél is meghjelenjenek, így a bejegyzés kategórizálási metabox "
+#~ "megjelenik a normál bejegyzéseken kívül a termékek adminisztrációs "
+#~ "felületén is. Ezen a módon a különböző bejegyzés típusok azonos kategória "
+#~ "rendszerbe sorolhatók, növelve a hasonlóságot közöttük."
+
+#, fuzzy
+#~ msgid "WebshopLogic Related Items Settings"
+#~ msgstr "WebShopLogic Kapcsolódó bejegyzések beállításai"
+
+#, fuzzy
+#~ msgid "%s Reference Items"
+#~ msgstr "Forrás bejegyzések"
+
+#~ msgid "WebShopLogic Related Posts"
+#~ msgstr "WebShopLogic bejegyzés kapcsokatok"
+
+#~ msgid "Maximum number of characters for title displayed"
+#~ msgstr "Címből megjelenítendő karakterek maximális száma"
+
+#~ msgid "Choose list style"
+#~ msgstr "Válasszon lista stílust"
+
+#~ msgid "Choose thumbnail style"
+#~ msgstr "Válasszon bélyegkép stílust"
+
+#~ msgid ""
+#~ "On %1s pages and %2s archive page display the following type of related "
+#~ "items"
+#~ msgstr ""
+#~ "A %1s lapokon és %2s archiv oldalakon a következő típusú kapcsolódó "
+#~ "elemek kijelzése"
+
+#~ msgid "Show Title"
+#~ msgstr "Cím kijelzése"
+
+#~ msgid "Show Excerpt"
+#~ msgstr "Szemelvény megjelenítése"
+
+#~ msgid "Thumbnail (YARPP template)"
+#~ msgstr "Bélyegkép (YARPP sablon)"
